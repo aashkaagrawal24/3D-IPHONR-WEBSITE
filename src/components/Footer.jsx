@@ -10,14 +10,14 @@ const Footer = () => {
             Built as a front-end product showcase using React, Three.js, GSAP, and Tailwind CSS.
           </p>
           <p className="font-semibold text-gray text-xs">
-            Deployed and customized by Mandar0927.
+            Deployed and customized by Aashka0927.
           </p>
         </div>
 
         <div className="bg-neutral-700 my-5 h-[1px] w-full" />
 
         <div className="flex md:flex-row flex-col md:items-center justify-between">
-          <p className="font-semibold text-gray text-xs">Copyright 2026 Mandar0927. Showcase build.</p>
+          <p className="font-semibold text-gray text-xs">Copyright 2026 Aashka0927. Showcase build.</p>
           <div className="flex">
             {footerLinks.map((link, i) => (
               <p key={link} className="font-semibold text-gray text-xs">

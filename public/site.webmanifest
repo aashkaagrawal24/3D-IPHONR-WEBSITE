@@ -1,6 +1,6 @@
 {
-  "name": "Mandar 3D Product Showcase",
-  "short_name": "Mandar3D",
+  "name": "Aashka 3D Product Showcase",
+  "short_name": "Aashka3D",
   "description": "Interactive 3D product landing page built with React, Three.js, GSAP, and Tailwind CSS.",
   "display": "standalone",
   "background_color": "#05070b",

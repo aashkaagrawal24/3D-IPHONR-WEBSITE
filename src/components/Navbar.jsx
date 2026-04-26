@@ -7,7 +7,7 @@ const Navbar = () => {
       <nav className="flex w-full screen-max-width">
         <div className="flex items-center gap-3">
           <img src={appleImg} alt="Site logo" width={14} height={18} />
-          <span className="text-sm tracking-[0.2em] text-gray">MANDAR0927</span>
+          <span className="text-sm tracking-[0.2em] text-gray">AASHKA0927</span>
         </div>
 
         <div className="flex flex-1 justify-center max-sm:hidden">
