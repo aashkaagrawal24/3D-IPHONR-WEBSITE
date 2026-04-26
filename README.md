@@ -1,15 +1,14 @@
-# 3D iPhone Website
+# 3D iPhone Product Website
 
-A React, Three.js, GSAP, and Tailwind CSS project that recreates an interactive iPhone 15 Pro product page experience with animated sections, a video carousel, and a 3D phone model viewer.
+An interactive product landing page built with React, Vite, Three.js, GSAP, and Tailwind CSS. The site combines smooth motion, 3D device rendering, and media-driven sections to recreate a polished modern product showcase experience.
 
-## Attribution
+## Highlights
 
-This project is based on the open-source iPhone website project by Adrian Hajdin / JavaScript Mastery:
-
-- Original repository: https://github.com/adrianhajdin/iphone
-- Tutorial/source inspiration: JavaScript Mastery iPhone 15 website project
-
-The code in this repository has been cloned/adapted for learning, practice, and demonstration purposes.
+- Scroll-based section animations
+- Interactive 3D phone viewer
+- Color and size switching
+- Video carousel interactions
+- Responsive layout for desktop and mobile
 
 ## Tech Stack
 
@@ -21,15 +20,7 @@ The code in this repository has been cloned/adapted for learning, practice, and 
 - GSAP
 - Tailwind CSS
 
-## Features
-
-- Animated landing sections using GSAP
-- Interactive 3D iPhone model rendering
-- Multiple phone colors and sizes
-- Responsive layout
-- Custom video carousel
-
-## Getting Started
+## Local Development
 
 Install dependencies:
 
@@ -37,24 +28,28 @@ Install dependencies:
 npm install
 ```
 
-Run the development server:
+Start the development server:
 
 ```bash
 npm run dev
 ```
 
-Open the local Vite URL in your browser, usually:
-
-```text
-http://127.0.0.1:5173/
-```
-
-Build for production:
+Create a production build:
 
 ```bash
 npm run build
 ```
 
-## Project Notes
+## Project Structure
 
-This repository is intended as a learning project and portfolio practice. It is not affiliated with Apple, and all Apple product names or visual references belong to their respective owners.
+- `src/` application components, sections, constants, and utilities
+- `public/` static assets
+- `dist/` production build output
+
+## Notes
+
+This project is for learning, experimentation, and portfolio use. It is not affiliated with Apple, and all product names, trademarks, and brand assets belong to their respective owners.
+
+## Acknowledgment
+
+This project was developed with inspiration from publicly shared React and Three.js product-page tutorials, including work by Adrian Hajdin / JavaScript Mastery.
