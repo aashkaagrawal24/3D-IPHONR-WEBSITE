@@ -1,0 +1,16 @@
+{
+  "name": "Mandar 3D Product Showcase",
+  "short_name": "Mandar3D",
+  "description": "Interactive 3D product landing page built with React, Three.js, GSAP, and Tailwind CSS.",
+  "display": "standalone",
+  "background_color": "#05070b",
+  "theme_color": "#0b1220",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

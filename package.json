@@ -1,7 +1,8 @@
 {
-  "name": "apple_website",
+  "name": "mandar-3d-product-showcase",
   "private": true,
   "version": "0.0.0",
+  "description": "Interactive 3D product landing page built with React, GSAP, and Three.js.",
   "type": "module",
   "scripts": {
     "dev": "vite",
